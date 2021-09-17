@@ -17,7 +17,7 @@
 
 ## Frontend
 - TypeScript
-- React JS
+- ReactJS
 
 ## Deploy
 - GitHub
