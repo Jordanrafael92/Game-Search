@@ -15,6 +15,10 @@
 - JPA
 - Maven
 
+## Frontend
+- TypeScript
+- React JS
+
 ## Deploy
 - GitHub
 - Heroku
