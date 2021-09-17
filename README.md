@@ -15,6 +15,10 @@
 - JPA
 - Maven
 
+## Deploy
+- GitHub
+- Heroku
+
 ## Author
 Jordan Silva
 
