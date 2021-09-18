@@ -18,6 +18,7 @@
 ## Frontend
 - TypeScript
 - ReactJS
+- ApexCharts
 
 ## Deploy
 - GitHub
