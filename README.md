@@ -4,6 +4,21 @@
 
 # Preject GameSearch 
 
+## Layout web
+
+<p align="center">
+  <img width="800" src="assets/home.jpg">
+</p>
+
+<p align="center">
+  <img width="800" src="assets/list.jpg">
+</p>
+
+<p align="center">
+  <img width="800" src="assets/charts.jpg">
+</p>
+
+
 # Technologies used
 ## Database
 - PostgresSQL
