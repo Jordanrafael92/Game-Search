@@ -20,6 +20,10 @@
 - ReactJS
 - ApexCharts
 
+## Mobile
+- React Native
+- Expo
+
 ## Deploy
 - GitHub
 - Heroku
