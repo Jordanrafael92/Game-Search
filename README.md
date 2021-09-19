@@ -21,7 +21,7 @@
 ## Layout Mobile
 
 <p align="center">
-  <img width="800" src="assets/homeMobile.jpg">
+  <img width="300" src="assets/homeMobile.jpg">
 </p>
 
 # Technologies used
