@@ -4,7 +4,7 @@
 
 # Preject GameSearch 
 
-## Layout web
+## Layout Web
 
 <p align="center">
   <img width="800" src="assets/home.jpg">
@@ -18,6 +18,11 @@
   <img width="800" src="assets/charts.jpg">
 </p>
 
+## Layout Mobile
+
+<p align="center">
+  <img width="800" src="assets/homeMobile.jpg">
+</p>
 
 # Technologies used
 ## Database
