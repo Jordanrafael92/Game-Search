@@ -2,13 +2,13 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import AppLoading from 'expo-app-loading';
-import Header from './src/components/Header';
+import Routes from './src/routes';
+
 import {
   useFonts,
   Play_400Regular,
   Play_700Bold
 } from '@expo-google-fonts/play';
-import Home from './src/pages/Home';
 
 
 export default function App() {
@@ -22,8 +22,7 @@ export default function App() {
   } else {
     return (
       <View style={styles.container}>
-        <Header/>
-        <Home/>
+        <Routes />
         <StatusBar style="auto" />
       </View>
     );
@@ -32,7 +31,6 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#0B1F34'
+    flex: 1    
   }
 });
